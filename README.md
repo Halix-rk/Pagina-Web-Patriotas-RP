@@ -4,29 +4,6 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Página de Información del Servidor</title>
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-      background-color: #0d0d0d;
-      color: #fff;
-      margin: 0;
-      padding: 20px;
-    }
-    h1, h2 {
-      color: #7289da;
-    }
-    section {
-      background: #1a1a1a;
-      margin: 20px 0;
-      padding: 15px;
-      border-radius: 10px;
-      border-left: 4px solid #7289da;
-    }
-    a {
-      color: #00aaff;
-    }
-  </style>
 </head>
 <body>
   <h1>Información del Servidor</h1>
