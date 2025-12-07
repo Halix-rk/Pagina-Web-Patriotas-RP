@@ -34,7 +34,7 @@
   <!-- Aquí iré agregando todo lo que me pases -->
   <section>
     <h2>Bienvenido</h2>
-    <p>Página web del servidor. Pásame la información y la incorporo aquí.</p>
+    <p>Pagina web donde encontraras informaciones de licencias vehiculos etc.</p>
   </section>
 
   <section>
@@ -52,17 +52,6 @@
       <li><strong>Licencia Clase E:</strong> Habilita el manejo de vehículos de transporte público o taxis.</li>
       <li><strong>Licencia Clase F:</strong> Permite conducir vehículos de emergencia (ambulancias, carros de bomberos, etc.).</li>
       <li><strong>Licencia de Armas:</strong> Rol especial para usuarios autorizados a portar armas dentro del rol.</li>
-      <li>Licencia Clase A1</li>
-      <li>Licencia Clase A2</li>
-      <li>Licencia Clase A3</li>
-      <li>Licencia Clase A4</li>
-      <li>Licencia Clase A5</li>
-      <li>Licencia Clase B</li>
-      <li>Licencia Clase C</li>
-      <li>Licencia Clase D</li>
-      <li>Licencia Clase E</li>
-      <li>Licencia Clase F</li>
-      <li>Licencia de Armas</li>
     </ul>
   </section>
 
